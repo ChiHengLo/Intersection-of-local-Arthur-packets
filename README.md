@@ -4,7 +4,7 @@ This is a SAGE code for intersection of local Arthur packets of classical groups
 By this code, one can compute the following:
 
 Langlands data for the representations associated to extended multi-segments;
-
+<br>
 Local Arthur packets of classical groups;
 Basic operators of extended multi-segments;
 Partial dual of extended multi-segments;
