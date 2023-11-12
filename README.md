@@ -1,10 +1,12 @@
 # Intersection-of-local-Arthur-packets
 This is a SAGE code for intersection of local Arthur packets of classical groups.
 
+A large portion of the code is built upon [Atobe's code](https://github.com/atobe31/Local-A-packets/tree/main), and one can see the explanation there.
+
 By this code, one can compute the following:
 
 - Langlands data for the representations associated to extended multi-segments;
-- Local Arthur packets of classical groups;
+- Local Arthur packets of classical groups.
 - Basic operators of extended multi-segments;<br>
 - Partial dual of extended multi-segments;<br>
 - The set of local Arthur packets containing a representation; <br>
