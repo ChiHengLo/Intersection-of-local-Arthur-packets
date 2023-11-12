@@ -1,7 +1,7 @@
 # Intersection-of-local-Arthur-packets
 This is a SAGE code for intersection of local Arthur packets of classical groups.
 
-A large portion of the code is built upon [Atobe's code](https://github.com/atobe31/Local-A-packets/tree/main), and one can see the explanation there.
+A large portion of the code is built upon [Atobe's code](https://github.com/atobe31/Local-A-packets/tree/main). We include all of his commands, and one can see the explanation there.
 
 By this code, one can compute the following:
 
