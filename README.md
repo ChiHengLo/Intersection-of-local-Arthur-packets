@@ -9,6 +9,7 @@ By this code, one can compute the following:
 - Local Arthur packets of classical groups.
 - Basic operators of extended multi-segments;<br>
 - Partial dual of extended multi-segments;<br>
+- Canonical form of extended multi-segment;
 - The set of local Arthur packets containing a representation; <br>
 - Determination if a given irreducible representation is of Arthur type or not;<br>
 - Determination if an extended multi-segment gives a representation in the associated L-packet;<br>
